@@ -1,0 +1,253 @@
+ID;FAO_code;CNTRY_NAME
+;;
+1;0;Aruba
+2;8;Antigua and Barbuda
+3;2;Afghanistan
+4;4;Algeria
+5;52;Azerbaijan
+6;3;Albania
+7;1;Armenia
+8;6;Andorra
+9;7;Angola
+10;0;American_Samoa
+11;9;Argentina
+12;10;Australia
+13;11;Austria
+14;0;Anguilla
+15;0;Antarctica
+16;13;Bahrain
+17;14;Barbados
+18;20;Botswana
+19;0;Bermuda
+20;255;Belgium
+21;12;Bahamas
+22;16;Bangladesh
+23;23;Belize
+24;80;Bosnia and Herzegovina
+25;19;Bolivia
+26;28;Myanmar
+27;53;Benin
+28;57;Belarus
+29;25;Solomon Islands
+30;21;Brazil
+31;18;Bhutan
+32;27;Bulgaria
+33;0;Bouvet_Island
+34;26;Brunei Darussalam
+35;29;Burundi
+36;33;Canada
+37;115;Cambodia
+38;39;Chad
+39;38;Sri Lanka
+40;46;Congo
+41;250;Zaire
+42;351;China
+43;40;Chile
+44;0;Cayman_Islands
+45;0;Cocos_(Keeling)_Islands
+46;32;Cameroon
+47;45;Comoros
+48;44;Colombia
+49;0;Northern_Mariana_Islands
+50;48;Costa Rica
+51;37;Central African Republic
+52;49;Cuba
+53;35;Cabo Verde
+54;47;Cook Islands
+55;50;Cyprus
+56;54;Denmark
+57;72;Djibouti
+58;55;Dominica
+59;0;Jarvis_Island
+60;56;Dominican Republic
+61;58;Ecuador
+62;59;Egypt
+63;104;Ireland
+64;61;Equatorial Guinea
+65;63;Estonia
+66;178;Eritrea
+67;60;El Salvador
+68;238;Ethiopia
+69;167;Czech Republic
+70;69;French_Guiana
+71;67;Finland
+72;66;Fiji
+73;0;Falkland_Islands
+74;145;Micronesia, Federated States of
+75;64;Faroe_Islands
+76;0;French_Polynesia
+77;0;Baker_Island
+78;68;France
+79;0;French_Southern_&_Antarctic_Lands
+80;75;Gambia
+81;74;Gabon
+82;73;Georgia
+83;81;Ghana
+84;0;Gibraltar
+85;86;Grenada
+86;0;Guernsey
+87;0;Greenland
+88;79;Germany
+89;0;Glorioso_Islands
+90;0;Guadeloupe
+91;0;Guam
+92;84;Greece
+93;89;Guatemala
+94;90;Guinea
+95;91;Guyana
+96;0;Gaza_Strip
+97;93;Haiti
+98;0;Heard_Island_&_McDonald_Islands
+99;95;Honduras
+100;0;Howland_Island
+101;98;Croatia
+102;97;Hungary
+103;99;Iceland
+104;101;Indonesia
+105;0;Isle_of_Man
+106;100;India
+107;0;British_Indian_Ocean_Territory
+108;102;Iran
+109;105;Israel
+110;106;Italy
+111;107;Cote d'Ivoire
+112;103;Iraq
+113;110;Japan
+114;0;Jersey
+115;109;Jamaica
+116;0;Jan_Mayen
+117;112;Jordan
+118;0;Johnston_Atoll
+119;0;Juan_De_Nova_Island
+120;114;Kenya
+121;113;Kyrgyzstan
+122;116;Korea, Democratic People's Republic of
+123;83;Kiribati
+124;117;Korea, Republic of
+125;0;Christmas_Island
+126;118;Kuwait
+127;108;Kazakhstan
+128;120;Lao People's Democratic Republic
+129;121;Lebanon
+130;119;Latvia
+131;126;Lithuania
+132;123;Liberia
+133;199;Slovakia
+134;0;Liechtenstein
+135;122;Lesotho
+136;256;Luxembourg
+137;124;Libyan Arab Jamahiriya
+138;129;Madagascar
+139;0;Martinique
+140;0;Macau
+141;146;Moldova, Republic of
+142;0;Mayotte
+143;141;Mongolia
+144;0;Montserrat
+145;130;Malawi
+146;154;Macedonia, the former Yugoslav Republic of
+147;133;Mali
+148;140;Monaco
+149;143;Morocco
+150;137;Mauritius
+151;0;Midway_Islands
+152;136;Mauritania
+153;134;Malta
+154;221;Oman
+155;132;Maldives
+156;273;Montenegro
+157;138;Mexico
+158;131;Malaysia
+159;144;Mozambique
+160;153;New_Caledonia
+161;160;Niue
+162;0;Norfolk_Island
+163;158;Niger
+164;155;Vanuatu
+165;159;Nigeria
+166;150;Netherlands
+167;162;Norway
+168;149;Nepal
+169;148;Nauru
+170;207;Suriname
+171;0;Netherlands_Antilles
+172;157;Nicaragua
+173;156;New Zealand
+174;169;Paraguay
+175;0;Pitcairn_Islands
+176;170;Peru
+177;0;Paracel_Islands
+178;0;Spratly_Islands
+179;165;Pakistan
+180;173;Poland
+181;166;Panama
+182;174;Portugal
+183;168;Papua New Guinea
+184;180;Palau
+185;175;Guinea-Bissau
+186;179;Qatar
+187;0;Reunion
+188;127;Marshall Islands
+189;183;Romania
+190;171;Philippines
+191;177;Puerto_Rico
+192;185;Russian Federation
+193;184;Rwanda
+194;194;Saudi Arabia
+195;0;St._Pierre_and_Miquelon
+196;188;Saint Kitts and Nevis
+197;196;Seychelles
+198;202;South Africa
+199;195;Senegal
+200;0;St._Helena
+201;198;Slovenia
+202;197;Sierra Leone
+203;192;San Marino
+204;0;Singapore
+205;201;Somalia
+206;203;Spain
+207;186;Serbia
+208;189;Saint Lucia
+209;206;Sudan
+210;0;Svalbard
+211;210;Sweden
+212;0;South_Georgia_and_the_South_Sandwich_Is
+213;212;Syrian Arab Republic
+214;211;Switzerland
+215;225;United Arab Emirates
+216;220;Trinidad and Tobago
+217;216;Thailand
+218;208;Tajikistan
+219;0;Turks_and_Caicos_Islands
+220;0;Tokelau
+221;219;Tonga
+222;217;Togo
+223;193;Sao Tome and Principe
+224;222;Tunisia
+225;223;Turkey
+226;227;Tuvalu
+227;351;China_Taiwan
+228;213;Turkmenistan
+229;215;Tanzania_United Republic of
+230;226;Uganda
+231;229;United Kingdom
+232;230;Ukraine
+233;231;United States
+234;233;Burkina Faso
+235;234;Uruguay
+236;235;Uzbekistan
+237;191;Saint Vincent and the Grenadines
+238;236;Venezuela
+239;0;British_Virgin_Islands
+240;237;Viet Nam
+241;0;Virgin_Islands
+242;147;Namibia
+243;105;West_Bank
+244;0;Wallis_and_Futuna
+245;143;Western_Sahara
+246;0;Wake_Island
+247;244;Samoa
+248;209;Swaziland
+249;249;Yemen
+250;251;Zambia
+251;181;Zimbabwe
